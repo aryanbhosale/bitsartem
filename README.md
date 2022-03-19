@@ -2,12 +2,12 @@
 
 - Contains `ONLY` the `Production Build` of Artem
 
-## A photo- hsaring platform made using:
+## A photo- sharing platform made using:
 - [ReactJS](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Sanity.io](sanity.io)
 
-## Uses Google OAuth2 and works `ONLY` for the BITS Pilani domain
+- Uses Google OAuth2 and works `ONLY` for the BITS Pilani domain
 
 ## Links
 
